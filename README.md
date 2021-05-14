@@ -1,5 +1,3 @@
-# 3dhouse
-Is house in 3d
 <h1 align="center">Welcome to 3D House 👋</h1>
 <h2 align="center">Is 3D House with THREEJS and GLTFLoader</h2>
 <p>
